@@ -74,7 +74,7 @@ body {
 .box-1::before {
     position: absolute;
     content: "";
-    background: url(../images/bg-pattern-quotation.svg) 0 0 / 100% no-repeat;
+    background: url(images/bg-pattern-quotation.svg) 0 0 / 100% no-repeat;
     width: 104px;
     height: 102px;
     top: 0;
